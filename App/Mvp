@@ -1,0 +1,17 @@
+creator-chatbot/
+├── app/
+│   ├── main.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── database.py
+│   ├── auth.py
+│   ├── ai.py
+│   ├── messages.py
+│   ├── payments.py
+│   ├── automation.py
+├── requirements.txt
+├── Procfile
+├── Dockerfile
+├── docker-compose.yml
+├── .env.example
+├── README.md
